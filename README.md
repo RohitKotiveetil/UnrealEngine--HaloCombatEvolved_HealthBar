@@ -3,6 +3,6 @@ Recreation of the Health &amp; Shield display system on Master Chief's MJOLNIR M
 
 Created using blueprints in Unreal Engine v4.21.
 
-Preview: 
+**Preview:** 
 
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
