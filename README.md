@@ -1,7 +1,7 @@
 # UnrealEngine--HaloCombatEvolved_HealthBar
 Recreation of the Health &amp; Shield display system on Master Chief's MJOLNIR Mk. V Helmet from Halo: Combat Evolved.
 
-Optimized for Unreal Engine 5.0
+Optimized for Unreal Engine 5.3
 
 **Preview:** https://www.youtube.com/watch?v=4lCEt8dthQ4
 
